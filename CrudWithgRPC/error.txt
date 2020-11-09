@@ -1,0 +1,8 @@
+I facing some issues. 
+I can't understand what is it.
+When I am going to connect my database then it is happening.
+The error is:
+
+C:\Users\samra\go\src\google.golang.org\grpc\status\status.go:34:2: cannot find package "google.golang.org/genproto/googleapis/rpc/status" in any of:
+        c:\go\src\google.golang.org\genproto\googleapis\rpc\status (from $GOROOT)
+        C:\Users\samra\go\src\google.golang.org\genproto\googleapis\rpc\status (from $GOPATH)
